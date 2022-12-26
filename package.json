@@ -1,7 +1,10 @@
 {
   "name": "unify-external-plugin-platform",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "description": "统一对外插件平台",
+  "main": "packages/index.js",
+  "author": "Young",
+  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
